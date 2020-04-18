@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e5cc60ead4c98725a77d28b319893d51",
+    "revision": "39a614ed5812f973fb7a8b5c38c0cae7",
     "url": "/tmd-react-app-simple-exercise/index.html"
   },
   {
-    "revision": "dc8318b9de318c267c9c",
+    "revision": "86f739d5f081bef583a0",
     "url": "/tmd-react-app-simple-exercise/static/css/2.2dc38268.chunk.css"
   },
   {
-    "revision": "e436596d3ffc55999acd",
+    "revision": "3ca86c92189ec931578b",
     "url": "/tmd-react-app-simple-exercise/static/css/main.fa41de12.chunk.css"
   },
   {
-    "revision": "dc8318b9de318c267c9c",
-    "url": "/tmd-react-app-simple-exercise/static/js/2.2f7a48c9.chunk.js"
+    "revision": "86f739d5f081bef583a0",
+    "url": "/tmd-react-app-simple-exercise/static/js/2.ff24a2d7.chunk.js"
   },
   {
-    "revision": "e88a3e95b5364d46e95b35ae8c0dc27d",
-    "url": "/tmd-react-app-simple-exercise/static/js/2.2f7a48c9.chunk.js.LICENSE.txt"
+    "revision": "c64c486544348f10a6d6c716950bc223",
+    "url": "/tmd-react-app-simple-exercise/static/js/2.ff24a2d7.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "e436596d3ffc55999acd",
-    "url": "/tmd-react-app-simple-exercise/static/js/main.695d0c72.chunk.js"
+    "revision": "3ca86c92189ec931578b",
+    "url": "/tmd-react-app-simple-exercise/static/js/main.f228d30f.chunk.js"
   },
   {
     "revision": "16748258107f01f2ca80",

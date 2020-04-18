@@ -1,26 +1,26 @@
 {
   "files": {
     "main.css": "/tmd-react-app-simple-exercise/static/css/main.fa41de12.chunk.css",
-    "main.js": "/tmd-react-app-simple-exercise/static/js/main.695d0c72.chunk.js",
-    "main.js.map": "/tmd-react-app-simple-exercise/static/js/main.695d0c72.chunk.js.map",
+    "main.js": "/tmd-react-app-simple-exercise/static/js/main.f228d30f.chunk.js",
+    "main.js.map": "/tmd-react-app-simple-exercise/static/js/main.f228d30f.chunk.js.map",
     "runtime-main.js": "/tmd-react-app-simple-exercise/static/js/runtime-main.d7537916.js",
     "runtime-main.js.map": "/tmd-react-app-simple-exercise/static/js/runtime-main.d7537916.js.map",
     "static/css/2.2dc38268.chunk.css": "/tmd-react-app-simple-exercise/static/css/2.2dc38268.chunk.css",
-    "static/js/2.2f7a48c9.chunk.js": "/tmd-react-app-simple-exercise/static/js/2.2f7a48c9.chunk.js",
-    "static/js/2.2f7a48c9.chunk.js.map": "/tmd-react-app-simple-exercise/static/js/2.2f7a48c9.chunk.js.map",
+    "static/js/2.ff24a2d7.chunk.js": "/tmd-react-app-simple-exercise/static/js/2.ff24a2d7.chunk.js",
+    "static/js/2.ff24a2d7.chunk.js.map": "/tmd-react-app-simple-exercise/static/js/2.ff24a2d7.chunk.js.map",
     "index.html": "/tmd-react-app-simple-exercise/index.html",
-    "precache-manifest.2ae5c76076fe8a29bf377fb667a27644.js": "/tmd-react-app-simple-exercise/precache-manifest.2ae5c76076fe8a29bf377fb667a27644.js",
+    "precache-manifest.deb7fbce2121c82a94751c742a42a9b5.js": "/tmd-react-app-simple-exercise/precache-manifest.deb7fbce2121c82a94751c742a42a9b5.js",
     "service-worker.js": "/tmd-react-app-simple-exercise/service-worker.js",
     "static/css/2.2dc38268.chunk.css.map": "/tmd-react-app-simple-exercise/static/css/2.2dc38268.chunk.css.map",
     "static/css/main.fa41de12.chunk.css.map": "/tmd-react-app-simple-exercise/static/css/main.fa41de12.chunk.css.map",
-    "static/js/2.2f7a48c9.chunk.js.LICENSE.txt": "/tmd-react-app-simple-exercise/static/js/2.2f7a48c9.chunk.js.LICENSE.txt",
+    "static/js/2.ff24a2d7.chunk.js.LICENSE.txt": "/tmd-react-app-simple-exercise/static/js/2.ff24a2d7.chunk.js.LICENSE.txt",
     "static/media/App.css": "/tmd-react-app-simple-exercise/static/media/SEGA.12a3db8b.woff"
   },
   "entrypoints": [
     "static/js/runtime-main.d7537916.js",
     "static/css/2.2dc38268.chunk.css",
-    "static/js/2.2f7a48c9.chunk.js",
+    "static/js/2.ff24a2d7.chunk.js",
     "static/css/main.fa41de12.chunk.css",
-    "static/js/main.695d0c72.chunk.js"
+    "static/js/main.f228d30f.chunk.js"
   ]
 }
